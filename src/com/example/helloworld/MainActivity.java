@@ -23,6 +23,8 @@ public class MainActivity extends Activity {
 
         TextView text = new TextView(this);
         text.setText("Hello World of Android! - Greetings from Puneetha");
+ 	//This is the change add manually
+
         setContentView(text);
 	}
 
